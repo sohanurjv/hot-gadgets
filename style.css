@@ -1,0 +1,49 @@
+.white-bg{
+    background-color: white;
+    
+}
+.carousel{
+    background-image: url(images/hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.container{
+    margin-bottom: 50px;
+}
+p{
+    color: gray;
+}
+.smart-top{
+    width: 40%;
+    background-color: green;
+}
+.orange-color{
+    color: orange;
+    font-size: small;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.btn, .btn-dark, .btn-sm{
+    text-align: center;
+}
+.buy-now{
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(79, 101, 201);
+}
+.categories{
+    text-align: center;
+}
